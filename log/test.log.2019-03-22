@@ -1,0 +1,54 @@
+2019-03-22 11:48:22,310 - framework - INFO - 初始化配置文件，文件路径=D:\my-git-project\91lng\selenium_91lng_auto_test\config_file\config.yml
+2019-03-22 11:48:31,223 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 11:48:31,889 - framework - INFO - ====element //*[@id="app"]/div/header/div/div/div/div[2]/div/div exist====
+2019-03-22 11:48:40,826 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 11:49:10,853 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====
+2019-03-22 11:49:19,602 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 11:49:49,619 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====
+2019-03-22 11:49:58,556 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 11:50:28,605 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====
+2019-03-22 11:58:52,852 - framework - INFO - 初始化配置文件，文件路径=D:\my-git-project\91lng\selenium_91lng_auto_test\config_file\config.yml
+2019-03-22 11:59:01,929 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 11:59:02,670 - framework - INFO - ====element //*[@id="app"]/div/header/div/div/div/div[2]/div/div exist====
+2019-03-22 11:59:11,475 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 11:59:41,526 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====
+2019-03-22 11:59:50,572 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 12:00:20,624 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====
+2019-03-22 12:00:29,475 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 12:00:59,497 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====
+2019-03-22 12:03:37,720 - framework - INFO - 初始化配置文件，文件路径=D:\my-git-project\91lng\selenium_91lng_auto_test\config_file\config.yml
+2019-03-22 12:03:46,913 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 12:03:47,641 - framework - INFO - ====element //*[@id="app"]/div/header/div/div/div/div[2]/div/div exist====
+2019-03-22 12:03:58,506 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 12:04:28,554 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====
+2019-03-22 12:04:37,477 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 12:05:07,517 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====
+2019-03-22 12:05:16,366 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 12:05:46,383 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====
+2019-03-22 15:30:14,043 - framework - INFO - 初始化配置文件，文件路径=D:\my-git-project\91lng\selenium_91lng_auto_test\config_file\config.yml
+2019-03-22 15:30:24,909 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 15:30:25,727 - framework - INFO - ====element //*[@id="app"]/div/header/div/div/div/div[2]/div/div exist====
+2019-03-22 15:30:34,733 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 15:31:04,792 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====
+2019-03-22 15:31:15,871 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 15:31:45,913 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====
+2019-03-22 15:31:55,513 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 15:32:25,534 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====
+2019-03-22 15:33:17,055 - framework - INFO - 初始化配置文件，文件路径=D:\my-git-project\91lng\selenium_91lng_auto_test\config_file\config.yml
+2019-03-22 15:33:25,973 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 15:33:26,635 - framework - INFO - ====element //*[@id="app"]/div/header/div/div/div/div[2]/div/div exist====
+2019-03-22 15:33:35,563 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 15:34:05,592 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====
+2019-03-22 15:34:14,726 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 15:34:44,773 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====
+2019-03-22 15:34:56,493 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 15:35:26,513 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====
+2019-03-22 15:44:09,349 - framework - INFO - 初始化配置文件，文件路径=D:\my-git-project\91lng\selenium_91lng_auto_test\config_file\config.yml
+2019-03-22 15:44:18,424 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 15:44:19,136 - framework - INFO - ====element //*[@id="app"]/div/header/div/div/div/div[2]/div/div exist====
+2019-03-22 15:44:29,955 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 15:44:59,981 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====
+2019-03-22 15:45:09,362 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 15:45:39,418 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====
+2019-03-22 15:45:48,413 - framework - INFO - ====check_elem: //*[@id="app"]/div/header/div/div/div/div[2]/div/div is exists?====
+2019-03-22 15:46:18,427 - framework - INFO - ====no //*[@id="app"]/div/header/div/div/div/div[2]/div/div====

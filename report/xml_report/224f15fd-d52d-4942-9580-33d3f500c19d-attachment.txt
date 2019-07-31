@@ -1,0 +1,195 @@
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:53347
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session HTTP/1.1" 200 998
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/url {"url": "http://bpm.hhtdlng.com/#/login", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/url HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/window/current/maximize {"windowHandle": "current", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/window/current/maximize HTTP/1.1" 200 109
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/timeouts/implicit_wait HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/url {"url": "http://bpm.hhtdlng.com/#/login", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/url HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id='app']/div/form/div[1]/div/div[1]/input", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 102
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-1/value {"text": "15275457888", "value": ["1", "5", "2", "7", "5", "4", "5", "7", "8", "8", "8"], "id": "0.8047332055676737-1", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-1/value HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id='app']/div/form/div[2]/div/div[1]/input", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 102
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-2/value {"text": "457888", "value": ["4", "5", "7", "8", "8", "8"], "id": "0.8047332055676737-2", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-2/value HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id='app']/div/form/div[3]/div/div/div[1]/div/input", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 102
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-3/value {"text": "1471", "value": ["1", "4", "7", "1"], "id": "0.8047332055676737-3", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-3/value HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id='app']/div/form/div[4]/div[2]/div/button", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 102
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-4/click {"id": "0.8047332055676737-4", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-4/click HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/title {"sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "GET /session/d738e081d5c993e5381ec9c4f783d72b/title HTTP/1.1" 200 82
+remote_connection.py       440 DEBUG    Finished Request
+common_login.py             22 INFO     成功登录!
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id=\"app\"]/section/aside/ul/li[5]", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 102
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-5/click {"id": "0.8047332055676737-5", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-5/click HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id=\"app\"]/section/aside/ul/li[5]/ul/li[1]", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 102
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-6/click {"id": "0.8047332055676737-6", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-6/click HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id=\"app\"]/section/main/div/div/div/div/div/div/div[2]/button", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 102
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-7/click {"id": "0.8047332055676737-7", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-7/click HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/title {"sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "GET /session/d738e081d5c993e5381ec9c4f783d72b/title HTTP/1.1" 200 94
+remote_connection.py       440 DEBUG    Finished Request
+customer_manage_page.py    158 INFO     进入客户管理新增编辑页面成功!
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id=\"addeditTailCarPage\"]//form/div[1]/div[1]/div/div/div[1]/input", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 102
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-8/value {"text": "\u5c71\u4e1c\u84dd\u6c34\u80fd\u6e90\u6709\u9650\u516c\u53f8", "value": ["\u5c71", "\u4e1c", "\u84dd", "\u6c34", "\u80fd", "\u6e90", "\u6709", "\u9650", "\u516c", "\u53f8"], "id": "0.8047332055676737-8", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-8/value HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id=\"addeditTailCarPage\"]//form/div[1]/div[2]/div/div/div/input", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 102
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-9/value {"text": "\u5c71\u4e1c\u84dd\u6c34", "value": ["\u5c71", "\u4e1c", "\u84dd", "\u6c34"], "id": "0.8047332055676737-9", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-9/value HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id=\"addeditTailCarPage\"]//form/div[1]/div[3]/div/div/div/div[1]", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 103
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-10/click {"id": "0.8047332055676737-10", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-10/click HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/elements {"using": "xpath", "value": "/html/body/div[@class=\"el-select-dropdown el-popper\"]/div[1]/div[1]/ul/li/span", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/elements HTTP/1.1" 200 177
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-11/text {"id": "0.8047332055676737-11", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "GET /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-11/text HTTP/1.1" 200 82
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-11/text {"id": "0.8047332055676737-11", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "GET /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-11/text HTTP/1.1" 200 82
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-11/click {"id": "0.8047332055676737-11", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-11/click HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id=\"addeditTailCarPage\"]//form/div[2]/div[1]/div/div/div/input", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 103
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-14/value {"text": "\u5510\u534a\u95f2", "value": ["\u5510", "\u534a", "\u95f2"], "id": "0.8047332055676737-14", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-14/value HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id=\"addeditTailCarPage\"]//form/div[2]/div[2]/div/div/div/input", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 103
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-15/value {"text": "19800000000", "value": ["1", "9", "8", "0", "0", "0", "0", "0", "0", "0", "0"], "id": "0.8047332055676737-15", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-15/value HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id=\"addeditTailCarPage\"]/section/main/div/form/div[2]/div[3]/div/div[1]/div/div", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 103
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-16/click {"id": "0.8047332055676737-16", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-16/click HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/elements {"using": "xpath", "value": "/html/body/div[@class=\"el-select-dropdown el-popper\"]/div[1]/div[1]/ul/li/span", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/elements HTTP/1.1" 200 177
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-11/text {"id": "0.8047332055676737-11", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "GET /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-11/text HTTP/1.1" 200 70
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-11/text {"id": "0.8047332055676737-11", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "GET /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-11/text HTTP/1.1" 200 70
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-12/text {"id": "0.8047332055676737-12", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "GET /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-12/text HTTP/1.1" 200 70
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-12/text {"id": "0.8047332055676737-12", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "GET /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-12/text HTTP/1.1" 200 70
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-13/text {"id": "0.8047332055676737-13", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "GET /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-13/text HTTP/1.1" 200 70
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-13/text {"id": "0.8047332055676737-13", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "GET /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-13/text HTTP/1.1" 200 70
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id=\"addeditTailCarPage\"]//form/div[2]/div[4]/div/div/div/input", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 103
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-17/value {"text": "ABCDEFGHJK12345678", "value": ["A", "B", "C", "D", "E", "F", "G", "H", "J", "K", "1", "2", "3", "4", "5", "6", "7", "8"], "id": "0.8047332055676737-17", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-17/value HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id=\"addeditTailCarPage\"]//form/div[2]/div[5]/div/div/div/input", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 103
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-18/value {"text": "\u5c71\u4e1c\u7701\u6d4e\u5357\u5e02\u5de5\u4e1a\u5357\u8def57\u53f7", "value": ["\u5c71", "\u4e1c", "\u7701", "\u6d4e", "\u5357", "\u5e02", "\u5de5", "\u4e1a", "\u5357", "\u8def", "5", "7", "\u53f7"], "id": "0.8047332055676737-18", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-18/value HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id=\"addeditTailCarPage\"]//form/div[2]/div[6]/div/div/div/input", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 103
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-19/value {"text": "300000", "value": ["3", "0", "0", "0", "0", "0"], "id": "0.8047332055676737-19", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-19/value HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id=\"addeditTailCarPage\"]//form/div[2]/div[8]/div/div/div/div", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 103
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-20/click {"id": "0.8047332055676737-20", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-20/click HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/elements {"using": "xpath", "value": "/html/body/div[@class=\"el-select-dropdown el-popper\"]/div[1]/div[1]/ul/li/span", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/elements HTTP/1.1" 200 177
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-11/text {"id": "0.8047332055676737-11", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "GET /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-11/text HTTP/1.1" 200 70
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-11/text {"id": "0.8047332055676737-11", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "GET /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-11/text HTTP/1.1" 200 70
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-12/text {"id": "0.8047332055676737-12", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "GET /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-12/text HTTP/1.1" 200 70
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-12/text {"id": "0.8047332055676737-12", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "GET /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-12/text HTTP/1.1" 200 70
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-13/text {"id": "0.8047332055676737-13", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "GET /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-13/text HTTP/1.1" 200 70
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    GET http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-13/text {"id": "0.8047332055676737-13", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "GET /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-13/text HTTP/1.1" 200 70
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id=\"addeditTailCarPage\"]//form/div[2]/div[7]/div/div/div/div[1]/div/label[1]", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 103
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-21/click {"id": "0.8047332055676737-21", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-21/click HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element {"using": "xpath", "value": "//*[@id=\"addeditTailCarPage\"]//button[2]", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element HTTP/1.1" 200 103
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-22/click {"id": "0.8047332055676737-22", "sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "POST /session/d738e081d5c993e5381ec9c4f783d72b/element/0.8047332055676737-22/click HTTP/1.1" 200 532
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    DELETE http://127.0.0.1:53347/session/d738e081d5c993e5381ec9c4f783d72b/window {"sessionId": "d738e081d5c993e5381ec9c4f783d72b"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:53347 "DELETE /session/d738e081d5c993e5381ec9c4f783d72b/window HTTP/1.1" 200 70
+remote_connection.py       440 DEBUG    Finished Request

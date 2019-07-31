@@ -1,0 +1,3 @@
+2019-04-09 17:31:16,171 - framework - INFO - 初始化配置文件，文件路径=D:\my-git-project\91lng\selenium_91lng_auto_test\config_file\config.yml
+2019-04-09 17:31:29,370 - framework - INFO - 成功登录!
+2019-04-09 17:31:31,699 - framework - INFO - 进入客户管理新增编辑页面成功!

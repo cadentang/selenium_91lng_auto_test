@@ -1,0 +1,4 @@
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:52654/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:52654
+connectionpool.py          393 DEBUG    http://127.0.0.1:52654 "POST /session HTTP/1.1" 200 268
+remote_connection.py       440 DEBUG    Finished Request

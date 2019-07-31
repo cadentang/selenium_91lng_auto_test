@@ -1,0 +1,13 @@
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:51747/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+connectionpool.py          205 DEBUG    Starting new HTTP connection (1): 127.0.0.1:51747
+connectionpool.py          393 DEBUG    http://127.0.0.1:51747 "POST /session HTTP/1.1" 200 999
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:51747/session/9177770453354744dd671316498c8954/url {"url": "http://bpm.hhtdlng.com/#/login", "sessionId": "9177770453354744dd671316498c8954"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:51747 "POST /session/9177770453354744dd671316498c8954/url HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:51747/session/9177770453354744dd671316498c8954/window/current/maximize {"windowHandle": "current", "sessionId": "9177770453354744dd671316498c8954"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:51747 "POST /session/9177770453354744dd671316498c8954/window/current/maximize HTTP/1.1" 200 109
+remote_connection.py       440 DEBUG    Finished Request
+remote_connection.py       388 DEBUG    POST http://127.0.0.1:51747/session/9177770453354744dd671316498c8954/timeouts/implicit_wait {"ms": 30000.0, "sessionId": "9177770453354744dd671316498c8954"}
+connectionpool.py          393 DEBUG    http://127.0.0.1:51747 "POST /session/9177770453354744dd671316498c8954/timeouts/implicit_wait HTTP/1.1" 200 72
+remote_connection.py       440 DEBUG    Finished Request
