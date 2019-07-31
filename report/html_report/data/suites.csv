@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Mar 22 15:45:08 CST 2019","Fri Mar 22 15:45:39 CST 2019","30442","test_case.test_bpm","test_login","TestLogin","","","测试密码错误登录失败",""
+"passed","Fri Mar 22 15:44:18 CST 2019","Fri Mar 22 15:44:19 CST 2019","1119","test_case.test_bpm","test_login","TestLogin","","","测试手机号码登录成功",""
+"passed","Fri Mar 22 15:45:48 CST 2019","Fri Mar 22 15:46:18 CST 2019","30413","test_case.test_bpm","test_login","TestLogin","","","测试验证码错误登录失败",""
+"passed","Fri Mar 22 15:44:29 CST 2019","Fri Mar 22 15:44:59 CST 2019","30468","test_case.test_bpm","test_login","TestLogin","","","测试手机号码错误登录失败",""

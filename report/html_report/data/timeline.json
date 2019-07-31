@@ -1,0 +1,65 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "cadentang",
+    "children" : [ {
+      "name" : "15076-MainThread",
+      "children" : [ {
+        "name" : "测试密码错误登录失败",
+        "uid" : "6e37c7caaf70551d",
+        "parentUid" : "ecda32f53d4a2e436bb707e92dcfa3e3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1553240708977,
+          "stop" : 1553240739419,
+          "duration" : 30442
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'1471'", "'457000'", "'15275457999'" ]
+      }, {
+        "name" : "测试手机号码登录成功",
+        "uid" : "eec2b6f292f8d7ff",
+        "parentUid" : "ecda32f53d4a2e436bb707e92dcfa3e3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1553240658018,
+          "stop" : 1553240659137,
+          "duration" : 1119
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试验证码错误登录失败",
+        "uid" : "2674516e68041ccb",
+        "parentUid" : "ecda32f53d4a2e436bb707e92dcfa3e3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1553240748015,
+          "stop" : 1553240778428,
+          "duration" : 30413
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'0000'", "'457888'", "'15275457999'" ]
+      }, {
+        "name" : "测试手机号码错误登录失败",
+        "uid" : "f706e551181dcc22",
+        "parentUid" : "ecda32f53d4a2e436bb707e92dcfa3e3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1553240669514,
+          "stop" : 1553240699982,
+          "duration" : 30468
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ecda32f53d4a2e436bb707e92dcfa3e3"
+    } ],
+    "uid" : "8634f7fd7c5b46cd3f970e7d06dcb75c"
+  } ]
+}

@@ -1,0 +1,120 @@
+{
+  "uid" : "eec2b6f292f8d7ff",
+  "name" : "测试手机号码登录成功",
+  "fullName" : "test_case.test_bpm.test_login.TestLogin#test_login_success",
+  "historyId" : "d62973097ded3b61d25e485cbc52c6b7",
+  "time" : {
+    "start" : 1553240658018,
+    "stop" : 1553240659137,
+    "duration" : 1119
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1553240649627,
+      "stop" : 1553240658017,
+      "duration" : 8390
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "35090bbfff2b362d",
+      "name" : "log",
+      "source" : "35090bbfff2b362d.txt",
+      "type" : "text/plain",
+      "size" : 6627
+    }, {
+      "uid" : "f4c105f6fdeadc4a",
+      "name" : "stdout",
+      "source" : "f4c105f6fdeadc4a.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "beccbfe9993570f3",
+      "name" : "stderr",
+      "source" : "beccbfe9993570f3.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1553240659137,
+      "stop" : 1553240661204,
+      "duration" : 2067
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试登录"
+  }, {
+    "name" : "story",
+    "value" : "测试登录成功"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case.test_bpm"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "cadentang"
+  }, {
+    "name" : "thread",
+    "value" : "15076-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_bpm.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eec2b6f292f8d7ff.json",
+  "parameterValues" : [ ]
+}

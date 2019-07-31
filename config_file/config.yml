@@ -1,0 +1,37 @@
+tms_test_url: http://tms.hhtdlng.com   # 测试网址
+bpm_test_url: http://bpm.hhtdlng.com    # 测试网址
+tms_pro_url: http://tms.91lng.cn    # 测试网址
+bpm_pro_url: http://bpm.91lng.cn   # 测试网址
+api_url: http://xxxxxx/
+images:
+ - images/0.jpg
+ - images/1.jpg
+ - images/2.jpg
+ - images/3.jpg
+ - images/4.jpg
+ - images/5.jpg
+ - images/6.jpg
+ - images/7.jpg
+num: 800
+log:
+    file_name: test.log      # 输出日志文件名
+    backup: 5                # 备份名
+    console_level: WARNING  # 控制台输出等级
+    file_level: DEBUG       # 文件输出等级
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'  # 打印输出格式
+test_suit:
+  - home
+  - home1
+severity:   # allure共5级：blocker, critical, normal, minor, trivial，None代表
+  - blocker
+  - critical
+  - normal
+  - minor
+  - trivial
+
+selenium_ip:
+  hub_ip: '192.168.0.25'
+  node_ip: ['192.168.0.25', '192.168.0.103']
+
+
+
